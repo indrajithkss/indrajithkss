@@ -1,94 +1,96 @@
-# Indrajith K S
+# INDRAJITH KS
+I am an MCA graduate with a strong foundation in software development, data analytics, and cloud technologies. I enjoy building scalable web applications, analyzing data to generate actionable insights, and solving real-world problems through technology.
 
-[Portfolio](https://indrajith-ks.vercel.app) • [LinkedIn](https://www.linkedin.com/in/indrajithkss) • [Instagram](https://instagram.com/indr4jithk5._)
+My technical expertise includes **JavaScript, React.js, Node.js, Express.js, Python, Java, SQL, MongoDB, MySQL, Firebase, AWS, Git, GitHub, HTML5, CSS3, REST APIs, Tableau, and Microsoft Excel**. I have hands-on experience developing full-stack applications, AI-powered solutions, IoT systems, and data analytics projects through internships, academic projects, and industry simulations.
 
-![GitHub followers](https://img.shields.io/github/followers/indrajithkss?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajithkss&layout=compact&theme=radical)
+I am passionate about learning emerging technologies and continuously improving my skills in software engineering, cloud computing, artificial intelligence, and data science. I thrive in collaborative environments, enjoy solving complex problems, and am committed to building high-quality, user-centric solutions.
 
----
 
-## 💫 About Me (TL;DR)
-Full‑Stack Developer focused on building scalable MERN web and mobile applications, designing RESTful APIs, and shipping production-ready features. Comfortable across frontend, backend, and DevOps; passionate about clean code and good UX.
+# MY PORTFOLIO : https://indrajith-ks.vercel.app/
 
----
+**Career Interests:**
 
-## 📚 Table of contents
-- [About Me (TL;DR)](#💫-about-me-tldr)
-- [Tech Stack](#💻-tech-stack)
-- [Featured Projects](#🚀-featured-projects)
-- [How to run / Try locally](#⚙️-how-to-run--try-locally)
-- [Contact](#✉️-contact)
-- [Stats & Badges](#📊-stats--badges)
-- [Contributing & License](#🤝-contributing--license)
+* Full Stack Developer
+* Frontend Developer (React.js)
+* Backend Developer (Node.js)
+* IoT Developer
+* Data Scientist
+* Data Analyst
+* Business Analyst
+* DevOps Engineer
+* Cloud Engineer
+* Software Engineer
 
----
+I am currently seeking opportunities where I can contribute, learn, and grow while working on impactful products and innovative technologies.
 
-## 💻 Tech Stack
-- Languages: JavaScript (ES6+), TypeScript, C, C++
-- Frontend: React, Next.js, React Native, HTML5, CSS3, Tailwind
-- Backend: Node.js, Express, REST APIs
-- Databases: MongoDB, PostgreSQL (add yours)
-- DevOps / Tools: Git, Docker, Vercel, Firebase, GitHub Actions
-- Testing & Quality: Jest, ESLint, Prettier
 
-(Adjust categories to match your actual experience; concise lists help visitors scan skills quickly.)
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indr4jithk5._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/indrajith-ks-40aa62227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indrajithindra55@gmail.com) 
 
-## 🚀 Featured Projects
-> Add 2–4 of your best projects here with 1–2 line descriptions and links to the repo or live demo.
+## 🛠 Tech Stack
 
-- Project Name — Short description of purpose or tech highlights. [Live](#) · [Code](#)
-- Another Project — Short description. Tech used: React, Node, MongoDB. [Live](#) · [Code](#)
-- Portfolio — Personal website showcasing projects & blog. https://indrajith-ks.vercel.app
+### 💻 Programming Languages
 
-If you want, I can scan this repo and fill the list automatically with links and READMEs for each project.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
-## ⚙️ How to run / Try locally
-(Only include if repository contains runnable code — otherwise remove this section.)
-1. Clone: git clone https://github.com/indrajithkss/indrajithkss.git
-2. Install: cd project && npm install
-3. Run: npm run dev
-4. Environment: add .env with the required keys (describe keys here)
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## ✉️ Contact
-- Portfolio: https://indrajith-ks.vercel.app
-- Email: your-email@example.com (add your email if you want contacts)
-- LinkedIn: https://www.linkedin.com/in/indrajithkss
-- Instagram: https://instagram.com/indr4jithk5._
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
 ---
 
-## 📊 Stats & Badges
-I recommend keeping 1–3 badges (website, LinkedIn, top languages). If you keep GitHub stat images, prefer the official/fast endpoints and avoid too many external hosts to reduce load time.
+### 🗄 Databases
 
-Example:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrajithkss&theme=radical)
-
----
-
-## 🤝 Contributing & License
-- Contributions welcome — open an issue or a PR.
-- License: MIT (or add yours). Add a LICENSE file if you don't have one.
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ---
 
-Tips & quick improvements I recommend
-- Replace raw HTML (<br/>) with Markdown line breaks or paragraphs.
-- Reduce number of badge images to speed loading — keep the most meaningful ones.
-- Group tech items (makes it readable for recruiters).
-- Add 3–5 featured projects with short bullets + links—this is the most visible part for recruiters.
-- Add a small “How to run” if the repo contains code, otherwise remove it to reduce noise.
-- Add ALT text for images/badges where possible (some badge hosts support it via query params).
-- Add a license file and CONTRIBUTING.md if you want outside contributions.
+### ☁️ Cloud & DevOps
 
-Would you like me to:
-- a) Commit this suggested README directly to main,
-- b) Open a branch + PR with the change,
-- c) Or just paste a ready-to-edit version (what I provided) for you to tweak?
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-If you want me to auto-fill the Featured Projects section, say “Scan repo and fill projects” and I’ll gather the top project folders and create the PR.
+---
+
+### 📊 Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=indrajithkss&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=indrajithkss&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=indrajithkss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
