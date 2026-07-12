@@ -1,17 +1,94 @@
-# 💫 About Me:
-Full-Stack Developer with hands-on experience building scalable MERN stack web and mobile applications, <br>developing REST APIs, and shipping production-ready features. Skilled in React.js component architecture, <br>Node.js/Express.js backend development, MongoDB schema design, JWT authentication, and debugging and <br>performance optimisation. Enjoys owning features end-to-end, collaborating closely with development teams, <br>and writing clean, reusable code. 
+# Indrajith K S
 
+[Portfolio](https://indrajith-ks.vercel.app) • [LinkedIn](https://www.linkedin.com/in/indrajithkss) • [Instagram](https://instagram.com/indr4jithk5._)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indr4jithk5._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/indrajith-ks-40aa62227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indrajithindra55@gmail.com) 
+![GitHub followers](https://img.shields.io/github/followers/indrajithkss?style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajithkss&layout=compact&theme=radical)
 
-##  My Portfolio:
-https://indrajith-ks.vercel.app/
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=indrajithkss&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=indrajithkss&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=indrajithkss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me (TL;DR)
+Full‑Stack Developer focused on building scalable MERN web and mobile applications, designing RESTful APIs, and shipping production-ready features. Comfortable across frontend, backend, and DevOps; passionate about clean code and good UX.
+
+---
+
+## 📚 Table of contents
+- [About Me (TL;DR)](#💫-about-me-tldr)
+- [Tech Stack](#💻-tech-stack)
+- [Featured Projects](#🚀-featured-projects)
+- [How to run / Try locally](#⚙️-how-to-run--try-locally)
+- [Contact](#✉️-contact)
+- [Stats & Badges](#📊-stats--badges)
+- [Contributing & License](#🤝-contributing--license)
+
+---
+
+## 💻 Tech Stack
+- Languages: JavaScript (ES6+), TypeScript, C, C++
+- Frontend: React, Next.js, React Native, HTML5, CSS3, Tailwind
+- Backend: Node.js, Express, REST APIs
+- Databases: MongoDB, PostgreSQL (add yours)
+- DevOps / Tools: Git, Docker, Vercel, Firebase, GitHub Actions
+- Testing & Quality: Jest, ESLint, Prettier
+
+(Adjust categories to match your actual experience; concise lists help visitors scan skills quickly.)
+
+---
+
+## 🚀 Featured Projects
+> Add 2–4 of your best projects here with 1–2 line descriptions and links to the repo or live demo.
+
+- Project Name — Short description of purpose or tech highlights. [Live](#) · [Code](#)
+- Another Project — Short description. Tech used: React, Node, MongoDB. [Live](#) · [Code](#)
+- Portfolio — Personal website showcasing projects & blog. https://indrajith-ks.vercel.app
+
+If you want, I can scan this repo and fill the list automatically with links and READMEs for each project.
+
+---
+
+## ⚙️ How to run / Try locally
+(Only include if repository contains runnable code — otherwise remove this section.)
+1. Clone: git clone https://github.com/indrajithkss/indrajithkss.git
+2. Install: cd project && npm install
+3. Run: npm run dev
+4. Environment: add .env with the required keys (describe keys here)
+
+---
+
+## ✉️ Contact
+- Portfolio: https://indrajith-ks.vercel.app
+- Email: your-email@example.com (add your email if you want contacts)
+- LinkedIn: https://www.linkedin.com/in/indrajithkss
+- Instagram: https://instagram.com/indr4jithk5._
+
+---
+
+## 📊 Stats & Badges
+I recommend keeping 1–3 badges (website, LinkedIn, top languages). If you keep GitHub stat images, prefer the official/fast endpoints and avoid too many external hosts to reduce load time.
+
+Example:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indrajithkss&theme=radical)
+
+---
+
+## 🤝 Contributing & License
+- Contributions welcome — open an issue or a PR.
+- License: MIT (or add yours). Add a LICENSE file if you don't have one.
+
+---
+
+Tips & quick improvements I recommend
+- Replace raw HTML (<br/>) with Markdown line breaks or paragraphs.
+- Reduce number of badge images to speed loading — keep the most meaningful ones.
+- Group tech items (makes it readable for recruiters).
+- Add 3–5 featured projects with short bullets + links—this is the most visible part for recruiters.
+- Add a small “How to run” if the repo contains code, otherwise remove it to reduce noise.
+- Add ALT text for images/badges where possible (some badge hosts support it via query params).
+- Add a license file and CONTRIBUTING.md if you want outside contributions.
+
+Would you like me to:
+- a) Commit this suggested README directly to main,
+- b) Open a branch + PR with the change,
+- c) Or just paste a ready-to-edit version (what I provided) for you to tweak?
+
+If you want me to auto-fill the Featured Projects section, say “Scan repo and fill projects” and I’ll gather the top project folders and create the PR.
